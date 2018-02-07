@@ -1,0 +1,13 @@
+.report {
+  margin-top: 5em;
+  margin-bottom: 2em;
+  text-transform: capitalize;
+  font-size: 17px;
+}
+.report tr td {
+  padding: 1em 1em 1em 1em;
+  background-color: #f1f1f1;
+}
+button {
+  align-items: center;
+}

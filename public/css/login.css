@@ -1,0 +1,13 @@
+.login-form {
+  padding-top: 3em;
+  text-align: center;
+}
+table {
+  margin-top: 5em;
+  text-transform: capitalize;
+  font-size: 1.5em;
+}
+table tr td {
+  padding: 1em 1em 1em 1em;
+  background-color: #f1f1f1;
+}
