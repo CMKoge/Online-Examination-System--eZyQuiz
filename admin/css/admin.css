@@ -1,0 +1,59 @@
+/**
+  * SideNav CSS
+  */
+.nav-pills {
+  padding-top: 5em;
+  text-transform: uppercase;
+}
+/**
+  * Instructions
+  */
+.alert {
+  text-align: justify;
+  font-size: 17px;
+}
+/**
+  * View
+  */
+.tbl {
+  padding-top: 5em;
+}
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th, td {
+    padding: 15px;
+}
+/**
+  * Inputs
+  */
+.insert-form {
+  padding-top: 5em;
+  text-align: justify;
+}
+.insert-sec {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+input[type=text],input[type=time],input[type=number], textarea{
+  width: 100%;
+  padding: 5px 20px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.2em;
+}
+.btn-insert {
+  margin: 20px;
+  text-align: center;
+}
+/**
+  * Footer
+  */
+footer {
+  text-align: right;
+}

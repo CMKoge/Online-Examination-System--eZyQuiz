@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+.login-form {
+  padding-top: 3em;
+}
+.divide {
+  text-transform: uppercase;
+}
+.register {
+  text-transform: capitalize;
+  font-style: italic;
+}
